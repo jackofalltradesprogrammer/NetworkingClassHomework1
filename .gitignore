@@ -26,4 +26,6 @@ hs_err_pid*
 #directorys
 .idea/
 
+#for eclipse
 /bin/
+/NetworkingClassHomework1.iml
